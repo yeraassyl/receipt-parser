@@ -1,0 +1,133 @@
+{
+  "bin": "080841000761",
+  "cashier": "300-189",
+  "cashierName": "300-189",
+  "companyName": "ТОО EUROPHARMA Астана",
+  "items": [
+    {
+      "amount": 2,
+      "name": "Натрия хлорид 0,9%, 200 мл, фл",
+      "price": 154,
+      "total": 308
+    },
+    {
+      "amount": 1,
+      "name": "Борный спирт 3%, 20 мл, фл.",
+      "price": 51,
+      "total": 51
+    },
+    {
+      "amount": 2,
+      "name": "Шприц 2 мл, 3-х комп. (Bioject)",
+      "price": 16,
+      "total": 32
+    },
+    {
+      "amount": 2,
+      "name": "Система для инфузии Vogt Medical",
+      "price": 60,
+      "total": 120
+    },
+    {
+      "amount": 1,
+      "name": "Naturella прокладки Классик макси №8",
+      "price": 310,
+      "total": 310
+    },
+    {
+      "amount": 1,
+      "name": "AURA Ватные диски №150",
+      "price": 461,
+      "total": 461
+    },
+    {
+      "amount": 1,
+      "name": "Чистая линия скраб мягкий 50 мл",
+      "price": 381,
+      "total": 381
+    },
+    {
+      "amount": 1,
+      "name": "Чистая линия  скраб очищающийабрикос 50 мл",
+      "price": 386,
+      "total": 386
+    },
+    {
+      "amount": 1,
+      "name": "Чистая линия скраб мягкий 50 мл",
+      "price": 381,
+      "total": 381
+    },
+    {
+      "amount": 1,
+      "name": "Carefree салфетки Алоэвоздухопроницаемые №20",
+      "price": 414,
+      "total": 414
+    },
+    {
+      "amount": 1,
+      "name": "Pro Series Шампунь яркий цвет 500мл",
+      "price": 841,
+      "total": 841
+    },
+    {
+      "amount": 1,
+      "name": "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет 500мл",
+      "price": 841,
+      "total": 841
+    },
+    {
+      "amount": 1,
+      "name": "Clear шампунь Актив спорт 2в1мужской  400 мл",
+      "price": 1200,
+      "total": 1
+    },
+    {
+      "amount": 1,
+      "name": "Bio World (HYDRO THERAPY)Мицеллярная вода 5в1, 445мл",
+      "price": 1152,
+      "total": 1
+    },
+    {
+      "amount": 1,
+      "name": "Bio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой, 250мл",
+      "price": 1152,
+      "total": 1
+    },
+    {
+      "amount": 1,
+      "name": "[RX]-Натрия хлорид 0,9%, 100 мл, фл.",
+      "price": 168,
+      "total": 168
+    },
+    {
+      "amount": 1,
+      "name": "[RX]-Дисоль р-р 400 мл, фл.",
+      "price": 163,
+      "total": 163
+    },
+    {
+      "amount": 1,
+      "name": "Тагансорбент с иономи серебра №30,пор.",
+      "price": 1526,
+      "total": 1
+    },
+    {
+      "amount": 2,
+      "name": "[RX]-Церукал 2%, 2 мл, №10, амп.",
+      "price": 396,
+      "total": 792
+    },
+    {
+      "amount": 1,
+      "name": "[RX]-Андазол 200 мг, №40, табл.",
+      "price": 7330,
+      "total": 7
+    }
+  ],
+  "ndc": "58001",
+  "number": "0014377",
+  "receiptId": "№2331180266",
+  "receiptOrderNum": "№64",
+  "shiftNum": 10
+}

@@ -8,11 +8,10 @@ import receipt.serializer.ParserJsonProtocol._
 
 object ReceiptParser extends Parser {
   val keys = Seq("Филиал", "БИН", "НДС Серия", "№", "Касса", "Смена", "Порядковый номер чека", "Чек", "Кассир")
-  val itemsPattern: Regex = "([0-9]+\\.)\\n([0-9a-zA-Zа-яА-Я\\%,\\.\\-() ]+)\\n([0-9,x ]+)\\n([0-9,]+)".r
+  val itemsPattern: Regex = "([0-9]+\\.)\\n([0-9a-zA-Zа-яА-Я\\%,\\.\\-()\\[\\]№ ]+)\\n([0-9,x ]+)\\n([0-9,]+)".r
 
   override def parse(source: String): JsValue = {
     val args = patterGen.map(pattern => {
-      println(pattern)
       pattern.findFirstMatchIn(source).get.group(2)
     })
 
